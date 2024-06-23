@@ -1,3 +1,10 @@
+#aws-logo {
+    width: 200px; /* Adjust width as needed */
+    height: auto; /* Maintain aspect ratio */
+    margin-left: auto; /* Pushes the logo to the right */
+    float: right;
+}
+
 body {
     font-family: 'Times New Roman', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 12px;
